@@ -14,8 +14,8 @@ body{
   }
 
 .article-banner {
-    width: 60%;
-    height: 150px;
+    width: 70%;
+    height: 30%;
     /* margin-left: auto;  */
     /* margin-right: auto; */
     margin-left:0
@@ -26,10 +26,10 @@ body{
     border-bottom: 1px solid rgba(0,0,0,.09)
 }
 
-.card-simple{
+/* .card-simple{
     border:0px;
     box-shadow:0 1px 4px white
-}
+} */
 
 /* .col-xs-12.col-md-8{
     width:100%
@@ -38,6 +38,10 @@ body{
 #publications_selected{
     padding-top:10px;
     padding-bottom:10px
+}
+#publications{
+    padding-top:30px;
+    padding-bottom:30px
 }
 
 #publications:first-child:first-child:first-child h1{
@@ -58,6 +62,6 @@ body{
 /* #publication:first-child:{
     margin-top:-10%
 } */
-.card-simple:first-of-type{
-    margin-top:-5%
-}
+/* .card-simple:first-of-type{
+    margin-top:-7%
+} */
