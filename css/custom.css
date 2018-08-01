@@ -17,7 +17,8 @@ body{
     width: 60%;
     height: 150px;
     /* margin-left: auto;  */
-    margin-right: auto;
+    /* margin-right: auto; */
+    margin-left:0
   }
 
 .home-section:nth-of-type(even){
@@ -58,5 +59,5 @@ body{
     margin-top:-10%
 } */
 .card-simple:first-of-type{
-    margin-top:-10%
+    margin-top:-5%
 }
