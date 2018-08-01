@@ -14,12 +14,16 @@ body{
   }
 
 .article-banner {
-    width: 70%;
-    height: 30%;
+    width: 40%;
+    height: 10%;
     /* margin-left: auto;  */
     /* margin-right: auto; */
     margin-left:0
   }
+
+.article-title{
+    font-size: 1.25rem;
+}
 
 .home-section:nth-of-type(even){
     background-color:white;
