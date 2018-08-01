@@ -23,6 +23,7 @@ body{
 
 .article-title{
     font-size: 1.25rem;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
 .home-section:nth-of-type(even){
