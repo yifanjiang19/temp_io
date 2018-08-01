@@ -38,6 +38,12 @@ body{
     padding-top:10px;
     padding-bottom:10px
 }
+
+#publications:first-child:first-child:first-of-type{
+    width:0;
+    hright:0
+}
+
 .card-simple:first-of-type{
     margin-left:-50%;
     margin-top:-10%
