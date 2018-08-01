@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 Jul 2018 20:32:13 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jul 2018 22:40:41 -0500</lastBuildDate>
     
 	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attend to where and when: Cascaded Attention Network for Facial Expression Recognition</title>
+      <link>/publication/can/</link>
+      <pubDate>Tue, 31 Jul 2018 22:40:41 -0500</pubDate>
+      
+      <guid>/publication/can/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond</title>

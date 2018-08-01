@@ -39,12 +39,24 @@ body{
     padding-bottom:10px
 }
 
-#publications:first-child:first-child:first-of-type{
+#publications:first-child:first-child:first-child h1{
+    background-color: black;
     width:0;
     hright:0
 }
 
+#publications .section-heading h1{
+    display: none
+}
+
+.card-simple{
+    /* margin-left:-50%; */
+    
+}
+
+/* #publication:first-child:{
+    margin-top:-10%
+} */
 .card-simple:first-of-type{
-    margin-left:-50%;
     margin-top:-10%
 }
