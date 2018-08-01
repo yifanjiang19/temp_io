@@ -10,5 +10,14 @@
     <lastBuildDate>Tue, 31 Jul 2018 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond</title>
+      <link>/publication/psgan/</link>
+      <pubDate>Tue, 31 Jul 2018 20:32:13 -0500</pubDate>
+      
+      <guid>/publication/psgan/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

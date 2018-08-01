@@ -1,3 +1,44 @@
 body{
     font-size:0.8rem
 }
+
+.powered-by{
+    display: none
+}
+
+.pub-banner {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.article-banner {
+    width: 60%;
+    height: 150px;
+    /* margin-left: auto;  */
+    margin-right: auto;
+  }
+
+.home-section:nth-of-type(even){
+    background-color:white;
+    border-bottom: 1px solid rgba(0,0,0,.09)
+}
+
+.card-simple{
+    border:0px;
+    box-shadow:0 1px 4px white
+}
+
+/* .col-xs-12.col-md-8{
+    width:100%
+} */
+
+#publications_selected{
+    padding-top:10px;
+    padding-bottom:10px
+}
+.card-simple:first-of-type{
+    margin-left:-50%;
+    margin-top:-10%
+}
