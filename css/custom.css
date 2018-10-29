@@ -38,6 +38,15 @@ body{
     border-bottom: 1px solid rgba(0,0,0,.09)
 }
 
+.pub-list-item .pub-authors{
+    line-height: normal;
+    font-style: normal;
+    font-size: 1rem;
+    color: black;
+  }
+.pub-authors p{
+    font-size : 18px;
+}
 /* .card-simple{
     border:0px;
     box-shadow:0 1px 4px white
@@ -71,6 +80,20 @@ body{
     
 }
 
+/* strong {
+
+    color:#0095eb;
+    color: black;
+
+    size: 100px;
+
+    margin: 0em;
+
+    font-size: xx-large;
+
+    font-style: italic;
+
+} */
 /* #publication:first-child:{
     margin-top:-10%
 } */
