@@ -4,9 +4,15 @@ dom.childNodes[1].childNodes[1].childNodes[3].className="col-xs-12 col-md-12";
 
 dom3 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[1].childNodes[5];
 var p = document.createElement('p');
-p.innerHTML = '<strong>Yifan Jiang</strong>, Xinyu Gong, <a href="http://www.atlaswang.com/">Zhangyang Wang</a>, <a href="https://sites.google.com/site/chengyu05/" target="view_window">Yu Cheng</a>';
+p.innerHTML = '<strong>Yifan Jiang</strong>, Xinyu Gong, <a href="http://www.atlaswang.com/" target="view_window">Zhangyang Wang</a>, <a href="https://sites.google.com/site/chengyu05/" target="view_window">Yu Cheng</a>';
 dom3.innerText = "";
 dom3.appendChild(p);
+
+dom2_1 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[3].childNodes[9];
+var p = document.createElement('p');
+p.innerHTML = 'IEEE Transaction on Affective Computing (<strong>Major Revision</strong>)';
+dom2_1.innerText = "";
+dom2_1.appendChild(p);
 
 dom2 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[3].childNodes[7];
 var p = document.createElement('p');
