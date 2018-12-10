@@ -2,7 +2,7 @@ var dom = document.getElementById("publications");
 dom.childNodes[1].childNodes[1].childNodes[3].className="col-xs-12 col-md-12";
 // dom.childNodes[1].childNodes[1].childNodes[2].className="col-xs-12 col-md-12"
 
-dom3 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[3].childNodes[7];
+dom3 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[1].childNodes[5];
 var p = document.createElement('p');
 p.innerHTML = '<strong>Yifan Jiang</strong>, Xinyu Gong, <a href="http://www.atlaswang.com/">Zhangyang Wang</a>, <a href="https://sites.google.com/site/chengyu05/" target="view_window">Yu Cheng</a>';
 dom3.innerText = "";
