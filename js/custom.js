@@ -4,7 +4,7 @@ dom.childNodes[1].childNodes[1].childNodes[3].className="col-xs-12 col-md-12";
 
 dom4 = dom.childNodes[1].childNodes[1].childNodes[3].childNodes[1].childNodes[5];
 var p = document.createElement('p');
-p.innerHTML = 'Xinyu Gong, Shiyu Chang <strong>Yifan Jiang</strong>, <a href="http://www.atlaswang.com/" target="view_window">Zhangyang Wang</a>';
+p.innerHTML = 'Xinyu Gong, Shiyu Chang, <strong>Yifan Jiang</strong>, <a href="http://www.atlaswang.com/" target="view_window">Zhangyang Wang</a>';
 dom4.innerText = "";
 dom4.appendChild(p);
 
